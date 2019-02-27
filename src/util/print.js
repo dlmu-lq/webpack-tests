@@ -1,3 +1,3 @@
-export default function () {
-    console.log("print");
+export default function (e) {
+    console.log(e);
 }
